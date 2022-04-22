@@ -6,7 +6,7 @@
 
 ## Curriculum
 1. [자료구조 (vector, queue, stack, deque)](#자료구조-vector-queue-stack-deque)
-2. STL 활용(priority_queue, map, set)
+2. [STL 활용 (priority_queue, map, set)](#stl-활용-priority_queue-map-set)
 3. 이분 탐색
 4. 그래프 탐색 (dfs, bfs)
 5. Tree[0]
@@ -21,9 +21,7 @@
 14. 실제 코딩테스트 기출문제 풀어보기
 
 이후엔 익숙해질때까지 스스로 강해지기
-
 ___
-
 이후로도 재밌어서 계속 하거나 다음 겨울때 한다면 하게 될 2차 스터디
  - Bitmasking-dp
  - 위상 정렬
@@ -34,8 +32,6 @@ ___
  - 트라이, 이분 매칭 등
 
 물론 커리큘럼 순서와 내용은 변경될 수 있음.
-
-____
 
 ### 커리큘럼 이전, 기본적인 Problem Solving에 익숙해지기 위한 추천문제
  - 빠른 입출력
@@ -63,4 +59,25 @@ ____
 
 ## 문제 리스트
 
-### 자료구조 (vector, queue, stack, deque)
+### 자료구조 (vector, queue, stack, deque) 
+
+|LEVEL|TIER|문제|비고|
+|:---:|---|---|---|
+|Basic|Silver 4|[스택](https://www.acmicpc.net/problem/10828)|
+|Basic|Silver 4|[큐 2](https://www.acmicpc.net/problem/18258)|
+|Basic|Silver 4|[덱](https://www.acmicpc.net/problem/10866)|
+|1|Silver 4|[회전하는 큐](https://www.acmicpc.net/problem/1021)|
+|1|Silver 4|[프린터 큐](https://www.acmicpc.net/problem/1966)|입력이 크지 않으니 구현에 집중해보죠!|
+|1|Silver 3|[스택 수열](https://www.acmicpc.net/problem/1874)|
+|1|Silver 3|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|
+|2|Silver 2|[에디터](https://www.acmicpc.net/problem/1406)|
+|2|Silver 1|[트럭](https://www.acmicpc.net/problem/13335)|구현에 집중한 큐 문제.|
+|3|Gold 5|[AC](https://www.acmicpc.net/problem/5430)|입력이 특이해 문자열을 다루는 연습도 됩니다.|
+|3|Gold 4|[오큰수](https://www.acmicpc.net/problem/17298)|위 자료구조들로 해결할 수 있습니다!|
+
+
+### STL 활용 (priority_queue, map, set)
+
+|LEVEL|TIER|문제|비고|
+|:---:|---|---|---|
+|1|Silver 4|[배부른 마라토너](https://www.acmicpc.net/problem/10546)|
